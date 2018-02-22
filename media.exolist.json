@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mathias",
+    "samples": [
+      {
+        "name": "Name of sample",
+        "uri": "http://45.32.75.36:8080/cmsData/VOD_DRM/Destination/704/stream.mpd",
+        "extension": "mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://wv-keyos.licensekeyserver.com/",
+        "drm_key_request_properties": {
+          "customdata": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48S2V5T1NBdXRoZW50aWNhdGlvblhNTD48RGF0YT48R2VuZXJhdGlvblRpbWU+MjAxOC0wMi0yMCAxMjoyNjoyNi4wMTU8L0dlbmVyYXRpb25UaW1lPjxFeHBpcmF0aW9uVGltZT4yMDE4LTAyLTIxIDEyOjI2OjI2LjAxNTwvRXhwaXJhdGlvblRpbWU+PFVuaXF1ZUlkPmJiODg5MzI4LWRmMDUtNGFmNS1hMDkzLTRmZTI0MzVhMDRlYzwvVW5pcXVlSWQ+PFJTQVB1YktleUlkPmFmNTRhMTBhOTI5YWIyYmUzMzBmNjQ5NzQyYjY5MzM1PC9SU0FQdWJLZXlJZD48V2lkZXZpbmVQb2xpY3kgZmxfQ2FuUGxheT0idHJ1ZSIgZmxfQ2FuUGVyc2lzdD0idHJ1ZSI+PExpY2Vuc2VEdXJhdGlvbj44NjQwMDA8L0xpY2Vuc2VEdXJhdGlvbj48L1dpZGV2aW5lUG9saWN5PjxXaWRldmluZUNvbnRlbnRLZXlTcGVjIFRyYWNrVHlwZT0iSEQiPjxTZWN1cml0eUxldmVsPjE8L1NlY3VyaXR5TGV2ZWw+PC9XaWRldmluZUNvbnRlbnRLZXlTcGVjPjwvRGF0YT48U2lnbmF0dXJlPktSY2VuZm9EL0hkbFJvWFFocFk0dk1kNmJEa3NrTVBDSlpTMFFpNWVoOGM2THR4aFVTa296MS9IbUpVMTgzZUpKdHNkVzV5RXVIWkt3NXE0SGRIa1ZFRnpCTmFUYWdXaFh2VDBUeHNWVjYzZFBBMkluVnlxUXJLelBQR0t6RzU1RWVJTGF1elRmTHlrV2tuWFZJem56dnRLdURiSG9ScHhBTm8vY2VGbXdRSEVnSDdneWtpbmw4NkZHNXZCd3RNV1hlSlYxZEVvaHV2MGZPem5QU0l6bjJwcHVMN1dtSmJsYzNuck5RZFFjNTZ6UkphM2lLbEthbWJ4S2lEZTlnTkVYTGtTSWNpS3BYaE4vUFNhYkhqa0pQdmJ6aTh1VmJMbTlKMTlETi9XK2lLa2trdmRnaWRzMXRjVnZ4SG1IQ0NQWDl6NDdPZU90TmQrNTJjRjFybFdRZz09PC9TaWduYXR1cmU+PC9LZXlPU0F1dGhlbnRpY2F0aW9uWE1MPg=="
+        }
+      }
+    ]
+  }
+]
